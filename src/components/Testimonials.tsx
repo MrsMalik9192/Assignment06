@@ -8,10 +8,10 @@ const Testimonials = () => {
     Customer testimonials
     </h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    <div>
-      <div className="text-center text-sm overflow-auto">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</div>
+    
+      
 
-    </div>
+    
 
 
     </div>
